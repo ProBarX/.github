@@ -49,7 +49,7 @@ O repositório principal do projeto é `probar-repo`, que contém o front-end e 
 
 
 Licença
--------
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para detalhes.
+Este projeto é de propriedade exclusiva da **ProBar**. 
+Todos os direitos reservados. Para mais detalhes, consulte o arquivo [LICENSE](../LICENSE).
 
