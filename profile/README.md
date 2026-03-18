@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-	<img src="logo/probar-logo.jpeg" alt="ProBarX Logo" width="220" />
+	<img src="../logo/probar-logo.jpeg" alt="ProBar Logo" width="220" />
 </p>
 
 ---
