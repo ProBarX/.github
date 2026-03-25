@@ -7,15 +7,6 @@
 
 Bem-vindo ao repositório oficial do **ProBar** - um projeto acadêmico que desenvolve uma plataforma web para intermediação de serviços entre clientes e bartenders.
 
-## Sumário
-
-- [Descrição](#descrição)
-- [Objetivos](#objetivos)
-- [Perfis de usuário](#perfis-de-usu%C3%A1rio)
-- [Tecnologias](#tecnologias)
-- [Organização do repositório](#organiza%C3%A7%C3%A3o-do-reposit%C3%B3rio)
-- [Licença](#licença)
-
 ## Descrição
 
 A plataforma permite que clientes encontrem profissionais, visualizem perfis e solicitem serviços, e que bartenders divulguem seus serviços, gerenciem disponibilidade e acompanhem solicitações.
